@@ -19,9 +19,9 @@
 
 <br>
 <p>
-  <b>N'hésitez pas à vous connecter avec moi sur LinkedIn :</b>
+  <b>N'hésitez pas à vous connecter avec moi :</b>
   <a href="https://linkedin.com/in/julienbedu" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Profil LinkedIn de Julien Bédu" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Profil LinkedIn de Julien Bédu" height="25"/>
   </a>
 </p>
 
@@ -29,7 +29,7 @@
 <h3 align="center">Mes langages et outils :</h3>
 
 <div align="center">
-<table bgcolor="#2c2c2c">
+<table>
   <tr>
     <td valign="top">
       <h4 align="center">Langages de programmation :</h4>
@@ -42,6 +42,7 @@
         <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
         <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
       </p>
+      <div style="height:15px;"></div> <!-- Ligne vide pour aérer -->
     </td>
     <td valign="top">
       <h4 align="center">Frameworks & bibliothèques :</h4>
@@ -55,13 +56,14 @@
         <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
         <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
       </p>
+      <div style="height:15px;"></div> <!-- Ligne vide pour aérer -->
     </td>
   </tr>
 </table>
 </div>
 
 <div align="center">
-<table bgcolor="#2c2c2c">
+<table>
   <tr>
     <td valign="top">
       <h4 align="center">Bases de données :</h4>
@@ -70,6 +72,7 @@
         <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
         <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
       </p>
+      <div style="height:15px;"></div> <!-- Ligne vide pour aérer -->
     </td>
     <td valign="top">
       <h4 align="center">Outils & Déploiement :</h4>
@@ -79,6 +82,7 @@
         <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
         <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>
       </p>
+      <div style="height:15px;"></div> <!-- Ligne vide pour aérer -->
     </td>
     <td valign="top">
       <h4 align="center">Graphisme :</h4>
@@ -86,10 +90,11 @@
         <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
         <a href="https://www.autodesk.com/fr/products/maya/overview" target="_blank" rel="noreferrer"> <img src="https://images.squarespace-cdn.com/content/v1/61deae4cf38bad1083bfed91/7b83fc7a-86dd-4a14-b835-72635ef338dd/autodesk+Maya+logo.png" alt="maya" width="40" height="40"/> </a>
         <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>
-        <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
+        <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="photoshop" width="40" height="40"/> </a>
         <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
         <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
       </p>
+      <div style="height:15px;"></div> <!-- Ligne vide pour aérer -->
     </td>
   </tr>
 </table>
@@ -105,11 +110,10 @@
 <a href="https://vuepress.vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/AliasIO/wappalyzer/master/src/drivers/webextension/images/icons/VuePress.svg" alt="vuepress" width="40" height="40"/> </a>
 -->
 
----
+<br><br>
 
 💡 *Ce site est généré avec GitHub Pages. Code source et design 100% personnalisés.*
 
----
 ---
 ---
 ---

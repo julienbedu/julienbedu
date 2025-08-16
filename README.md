@@ -115,36 +115,40 @@
 
 <h3>Mes projets :</h3>
 
-- **[SkaterQuest](lien)** - Application mobile en React Native pour accompagner les skateurs dans leur pratique (géolocalisation de spots, prise & gestion de photos et vidéos, suivi d'apprentissage, gestion de profil et de communautés, jeu intégré, ...)
-- **[Nom du projet 2](lien)** – (description)
-- **[Nom du projet 3](lien)** – (description)
-
-<br>
-
-<h3>Mes projets :</h3>
-
-<div style="display:flex; flex-wrap:wrap; justify-content:center; gap:20px; margin-top:20px;">
-  
-  <div style="background:#2c2c2c; color:white; padding:20px; border-radius:10px; width:250px; text-align:center; box-shadow:0 4px 6px rgba(0,0,0,0.3);">
-    <h4>SkaterQuest</h4>
-    <p>Application mobile en React Native pour accompagner les skateurs dans leur pratique (géolocalisation de spots, prise & gestion de photos et vidéos, suivi d'apprentissage, gestion de profil et de communautés, jeu intégré, ...)</p>
-    <a href="#" style="display:inline-block; margin-top:10px; padding:8px 12px; background:#4CAF50; color:white; text-decoration:none; border-radius:5px;">Voir le projet</a>
-  </div>
-
-  <br>
-
-  <div style="background:#2c2c2c; color:white; padding:20px; border-radius:10px; width:250px; text-align:center; box-shadow:0 4px 6px rgba(0,0,0,0.3);">
-    <h4>Shiny Pokédex</h4>
-    <p>Description courte du projet...</p>
-    <a href="#" style="display:inline-block; margin-top:10px; padding:8px 12px; background:#4CAF50; color:white; text-decoration:none; border-radius:5px;">Voir le projet</a>
-  </div>
-
-  <br>
-
-
-</div>
-
-
+<table>
+  <tr>
+    <td>
+      <h3 align="center">SkaterQuest</h3>
+      <p>Application mobile en React Native pour accompagner les skateurs dans leur pratique.</p>
+      <p>(lister technos ?)</p>
+      <ul>
+        <li>Géolocalisation de spots</li>
+        <li>Prise & gestion de photos et vidéos</li>
+        <li>Suivi d'apprentissage</li>
+        <li>Gestion de profil et de communautés)</li>
+        <li>Jeu intégré)</li>
+        <li>...</li>
+      </ul>
+      <a href="https://github.com/julienbedu/skaterquest-backend" style="display:inline-block; margin-top:10px; padding:8px 12px; background:#4CAF50; color:white; text-decoration:none; border-radius:5px;">Lien vers le backend du projet</a>
+      <br>
+      <a href="https://github.com/julienbedu/skaterquest-frontend" style="display:inline-block; margin-top:10px; padding:8px 12px; background:#4CAF50; color:white; text-decoration:none; border-radius:5px;">Lien vers le frontend du projet</a>
+    </td>
+    <td>
+      <img src = "" alt= "Visuel SkaterQuest"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3 align="center">Shiny Pokédex</h3>
+      <p>(Description courte du projet)</p>
+      <ul>
+        <li>...</li>
+        <li>...</li>
+      </ul>
+      <a href="https://github.com/julienbedu/pokedex-frontend" style="display:inline-block; margin-top:10px; padding:8px 12px; background:#4CAF50; color:white; text-decoration:none; border-radius:5px;">Lien vers le projet</a>
+    </td>
+  </tr>
+</table>
 
 
 <br><br>

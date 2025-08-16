@@ -134,7 +134,7 @@
       <a href="https://github.com/julienbedu/skaterquest-frontend" style="display:inline-block; margin-top:10px; padding:8px 12px; background:#4CAF50; color:white; text-decoration:none; border-radius:5px;">Lien vers le frontend du projet</a>
     </td>
     <td>
-      <img src = "" alt= "Visuel SkaterQuest"/>
+      <img src = "" alt= "Visuel du projet"/>
     </td>
   </tr>
   <tr>
@@ -146,6 +146,9 @@
         <li>...</li>
       </ul>
       <a href="https://github.com/julienbedu/pokedex-frontend" style="display:inline-block; margin-top:10px; padding:8px 12px; background:#4CAF50; color:white; text-decoration:none; border-radius:5px;">Lien vers le projet</a>
+    </td>
+    <td>
+      <img src = "" alt= "Visuel du projet"/>
     </td>
   </tr>
 </table>

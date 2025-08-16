@@ -124,8 +124,9 @@
 <h3>Mes projets :</h3>
 
 <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:20px; margin-top:20px;">
+  
   <div style="background:#2c2c2c; color:white; padding:20px; border-radius:10px; width:250px; text-align:center; box-shadow:0 4px 6px rgba(0,0,0,0.3);">
-    <h4>Nom du projet 1</h4>
+    <h4>SkaterQuest</h4>
     <p>Application mobile en React Native pour accompagner les skateurs dans leur pratique (géolocalisation de spots, prise & gestion de photos et vidéos, suivi d'apprentissage, gestion de profil et de communautés, jeu intégré, ...)</p>
     <a href="#" style="display:inline-block; margin-top:10px; padding:8px 12px; background:#4CAF50; color:white; text-decoration:none; border-radius:5px;">Voir le projet</a>
   </div>
@@ -133,18 +134,13 @@
   <br>
 
   <div style="background:#2c2c2c; color:white; padding:20px; border-radius:10px; width:250px; text-align:center; box-shadow:0 4px 6px rgba(0,0,0,0.3);">
-    <h4>Nom du projet 2</h4>
+    <h4>Shiny Pokédex</h4>
     <p>Description courte du projet...</p>
     <a href="#" style="display:inline-block; margin-top:10px; padding:8px 12px; background:#4CAF50; color:white; text-decoration:none; border-radius:5px;">Voir le projet</a>
   </div>
 
   <br>
 
-  <div style="background:#2c2c2c; color:white; padding:20px; border-radius:10px; width:250px; text-align:center; box-shadow:0 4px 6px rgba(0,0,0,0.3);">
-    <h4>Nom du projet 3</h4>
-    <p>Description courte du projet...</p>
-    <a href="#" style="display:inline-block; margin-top:10px; padding:8px 12px; background:#4CAF50; color:white; text-decoration:none; border-radius:5px;">Voir le projet</a>
-  </div>
 
 </div>
 

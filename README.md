@@ -14,7 +14,7 @@
 
 - 💻 Je travaille principalement sur la **stack JavaScript** (**JS**, **TS**, **React**, **React Native**, **NodeJS**, **Angular**)
 - 🌱 Mais je code aussi en **Python**, **Java**, **C#**
-- 📚 Toujours en **veille technologique** pour apprendre et innover !
+- 📚 Toujours en **veille technologique** pour apprendre et innover
 - 📍 Actuellement basé à Lille, mais **mobile dans toute la France**
 
 <br>

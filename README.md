@@ -12,8 +12,8 @@
 
 <h3>À propos de moi</h3>
 
-- 💻 Je travaille principalement sur la **stack JavaScript** (**JS**, **TS**, **React**, **React Native**, **NodeJS**, **Angular**)
-- 🌱 Mais je code aussi en **Python**, **Java**, **C#**
+- 💻 Je maîtrise la stack **JavaScript** (JS, TS, React, React Native, NodeJS, Angular)
+- 🌱 Je code aussi en **Python**, **Java**, **C#**, **HTML**, **CSS**, **PHP**
 - 📚 Toujours en **veille technologique** pour apprendre et innover
 - 📍 Actuellement basé à Lille, mais **mobile dans toute la France**
 
@@ -118,36 +118,50 @@
   <tr>
     <td>
       <h3 align="center">SkaterQuest</h3>
-      <p>Application mobile en React Native pour accompagner les skateurs dans leur pratique.</p>
-      <p>(lister technos ?)</p>
+      <p>Application mobile à destination des skateurs, pour les accompagner de manière ludique dans leur pratique.</p>
+      <p>Développée avec Thomas Poillion et Baptiste Zuber, de la conception initiale au déploiement en ligne de l'application.</p>
+      <h4>Langages et outils :</h4>
       <ul>
-        <li>Géolocalisation de spots</li>
-        <li>Prise & gestion de photos et vidéos</li>
-        <li>Suivi d'apprentissage</li>
-        <li>Gestion de profil et de communautés)</li>
-        <li>Jeu intégré)</li>
-        <li>...</li>
+        <li>Backend : JavaScript, Node.js, Express.js, MongoDB, Cloudinary</li>
+        <li>Frontend : React Native, HTML, CSS, Redux, Expo</li>
       </ul>
-      <a href="https://github.com/julienbedu/skaterquest-backend" style="display:inline-block; margin-top:10px; padding:8px 12px; background:#4CAF50; color:white; text-decoration:none; border-radius:5px;">Lien vers le backend du projet</a>
+      <h4>Fonctionnalités :</h4>
+      <ul>
+        <li>Géolocalisation et enregistrement de spots de skate</li>
+        <li>Prise, publication et gestion de photos et vidéos</li>
+        <li>Compagnon d'apprentissage des figures et suivi de progression</li>
+        <li>Gestion de profil d'utilisateur et de communautés</li>
+        <li>Jeu intégré (duel de figures)</li>
+        <li>Authentification et sécurité (cryptage de mot de passe et tokens JWT)</li>
+      </ul>
+      <a href="https://github.com/julienbedu/skaterquest-backend">Lien vers le backend du projet</a>
       <br>
-      <a href="https://github.com/julienbedu/skaterquest-frontend" style="display:inline-block; margin-top:10px; padding:8px 12px; background:#4CAF50; color:white; text-decoration:none; border-radius:5px;">Lien vers le frontend du projet</a>
+      <a href="https://github.com/julienbedu/skaterquest-frontend">Lien vers le frontend du projet</a>
     </td>
     <td>
-      <img src = "" alt= "Visuel du projet"/>
+      <img src="./assets/visuel-skaterquest.png" alt="Visuel du projet" width="400"/>
     </td>
   </tr>
   <tr>
     <td>
       <h3 align="center">Shiny Pokédex</h3>
       <p>(Description courte du projet)</p>
+      <h4>Langages et outils :</h4>
       <ul>
         <li>...</li>
         <li>...</li>
       </ul>
-      <a href="https://github.com/julienbedu/pokedex-frontend" style="display:inline-block; margin-top:10px; padding:8px 12px; background:#4CAF50; color:white; text-decoration:none; border-radius:5px;">Lien vers le projet</a>
+      <h4>Fonctionnalités :</h4>
+      <ul>
+        <li>...</li>
+        <li>...</li>
+      </ul>
+      <a href="https://pokedex-frontend-black.vercel.app/">Lien vers le site web déployé</a>
+      <br>
+      <a href="https://github.com/julienbedu/pokedex-frontend">Lien vers le projet</a>
     </td>
     <td>
-      <img src = "" alt= "Visuel du projet"/>
+      <img src="./assets/visuel-pokedex.png" alt="Visuel du projet" width="400"/>
     </td>
   </tr>
 </table>

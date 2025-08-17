@@ -12,11 +12,10 @@
 
 <h3>À propos de moi</h3>
 
-- 💻 J'ai principalement travaillé sur la **stack JavaScript (JS, TS, React, React Native)**
-- 🔭 Je suis aussi à l'aise en **Python, Java (etc.)**
-- 📚 Toujours en veille technologique pour apprendre et innover !
-- 🌱 Je me forme en ce moment sur **Angular, Vue, C#, .NET**
-- 📍 Actuellement basé à Lille, mais mobile dans toute la France
+- 💻 Je travaille principalement sur la **stack JavaScript** (**JS**, **TS**, **React**, **React Native**, **NodeJS**, **Angular**)
+- 🌱 Mais je code aussi en **Python**, **Java**, **C#**
+- 📚 Toujours en **veille technologique** pour apprendre et innover !
+- 📍 Actuellement basé à Lille, mais **mobile dans toute la France**
 
 <br>
 

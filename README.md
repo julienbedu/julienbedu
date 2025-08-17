@@ -161,7 +161,7 @@
       <a href="https://github.com/julienbedu/pokedex-frontend">Lien vers le projet</a>
     </td>
     <td>
-      <img src="./assets/visuel-pokedex.png" alt="Visuel du projet" width="400"/>
+      <img src="./assets/visuel-pokedex.PNG" alt="Visuel du projet" width="400"/>
     </td>
   </tr>
 </table>

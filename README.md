@@ -122,7 +122,7 @@
       <p>Développée avec Thomas Poillion et Baptiste Zuber, de la conception initiale au déploiement en ligne de l'application.</p>
       <h4>Langages et outils :</h4>
       <ul>
-        <li>Backend : JavaScript, Node.js, Express.js, MongoDB, Cloudinary</li>
+        <li>Backend : JavaScript, Node.js, Express, MongoDB, Cloudinary</li>
         <li>Frontend : React Native, HTML, CSS, Redux, Expo</li>
       </ul>
       <h4>Fonctionnalités :</h4>
@@ -139,7 +139,7 @@
       <a href="https://github.com/julienbedu/skaterquest-frontend">Lien vers le frontend du projet</a>
     </td>
     <td>
-      <img src="./assets/visuel-skaterquest.png" alt="Visuel du projet" width="400"/>
+      <img src="./assets/visuel-skaterquest.jpg" alt="Visuel du projet" width="400"/>
     </td>
   </tr>
   <tr>

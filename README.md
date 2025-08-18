@@ -145,16 +145,19 @@
   <tr>
     <td>
       <h3 align="center">Shiny Pokédex</h3>
-      <p>(Description courte du projet)</p>
+      <p>Pokédex interactif affichant tous les Pokémon existants et leur version chromatique.</p>
+      <p>Projet principalement centré sur l'expérience utilisateur, le DOM et le traitement de requêtes vers un webservice (PokéAPI).</p>
       <h4>Langages et outils :</h4>
       <ul>
-        <li>...</li>
-        <li>...</li>
+        <li>JavaScript, HTML, CSS</li>
       </ul>
       <h4>Fonctionnalités :</h4>
       <ul>
-        <li>...</li>
-        <li>...</li>
+        <li>Affichage des Pokémon à partir de la base de données de PokéAPI</li>
+        <li>Nombre de Pokémon affichés défini par l'utilisateur à l'aide d'un slider</li>
+        <li>Possibilité d'alterner entre la forme normale et chromatique (shiny) de chaque Pokémon</li>
+        <li>Animations CSS et diverses optimisations visuelles pour améliorer l'expérience utilisateur</li>
+        <li>Contrôle des types et doubles-types pour associer une couleur ou paire de couleur à chaque Pokémon</li>
       </ul>
       <a href="https://pokedex-frontend-black.vercel.app/">Lien vers le site web déployé</a>
       <br>
